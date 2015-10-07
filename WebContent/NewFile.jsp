@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>我在测试GIT呀~~~</title>
+<title>我在测试GIT呀~~~我是测试2号！</title>
 <script language="JavaScript" type="text/javascript">
 
   function custCheck(){
