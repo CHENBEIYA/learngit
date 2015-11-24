@@ -97,11 +97,6 @@ function tryLogoff(){
 			</div>			
 			<div class="panel-body login-box">
 			<form class="form-horizontal " role="form">
-<!-- 				<div class="form-group"> -->
-<!-- 					<div class="col-sm-10"> -->
-<!-- 					<h2 class="h2">帐号登录</h2> -->
-<!-- 					</div> -->
-<!-- 				</div> -->
 				<div class="form-group">
 					<label class="col-sm-2 control-label">账号</label>
 					<p class="col-sm-10"><input name="username" type="text" class="form-control" placeholder="学号/工号"></p>

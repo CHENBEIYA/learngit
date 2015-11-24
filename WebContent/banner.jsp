@@ -37,7 +37,7 @@ function tryLogoff(){
      
       <a class="navbar-brand navbar-brand-schapp" href="${pageContext.request.contextPath}/home">
        <img height="30px" src="${pageContext.request.contextPath}/images/fudan.png" />
-      <span>学籍管理系统</span>
+      <span>选课管理系统</span>
       </a>
     </div>
 
@@ -46,7 +46,7 @@ function tryLogoff(){
 		<ul id="banner-nav" class="nav navbar-nav">
 			<!-- <auth:require roles="admin"> -->
 			<li role="presentation" class="dropdown manage_users">
-				<a class="dropdown-toggle" data-toggle="dropdown" href="#"> 人员管理 <span class="caret"></span></a>
+				<a class="dropdown-toggle" data-toggle="dropdown" href="#"> 基本信息管理 <span class="caret"></span></a>
 				<ul class="dropdown-menu" role="menu">
 					<li class="manage_students"><a href="${pageContext.request.contextPath}/manage/students">学生信息管理</a></li>
 					<li class="manage_teachers"><a href="${pageContext.request.contextPath}/manage/teachers">教师信息管理</a></li>
